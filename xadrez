@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main(){ 
+ unsigned int populaçã, area, pib;
+   printf("entre com teresina \n");
+   scanf("%f, &teresina");
+   printf("entre com timon \n");
+   scanf("&f, &timon");
+   printf("entre com a população \n");
+   scanf("%u, &população");
+   printf("entre com a area \n ");
+   scanf("%u, &area \n");
+   printf("entre com a pib \n");
+   scanf("&u, &area");
+if("866.300 teresina> 174.000 timon\n"){
+printf("teresina tem maior população. \n");
+}else{
+    printf("timon tem maior população");
+}
+ return 0;
+
+ 
+    
+}
